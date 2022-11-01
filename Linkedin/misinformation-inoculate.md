@@ -5,3 +5,6 @@
  #education #misinformation #society
 
  Posted Linekdin https://www.linkedin.com/posts/bryukh_social-media-experiment-reveals-potential-activity-6991310612282650624-fBsO
+
+
+ https://medium.com/@bryukh/is-competitive-coding-the-next-big-thing-in-esports-5eaeb836ea59
