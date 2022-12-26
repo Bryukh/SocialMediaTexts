@@ -1,0 +1,6 @@
+Competition is one of the motivators for players in video games. Leaderboards, high scores, and PvP are common tools in game design to increase engagement and retention. So when games come to education and classrooms, those competition practices follow the games. This means that games can no longer be seen as a "solitary" activity but should be used to promote healthy competition or cooperation. Competition in classrooms looks like low-hanging fruit, which can increase students' engagement and motivation, but it's a double-edged sword and easily becomes a demotivator of learning.
+
+When used properly, competition can be an effective tool in the classroom if it's transparent and clear for the students. One way to do this is by introducing challenges as iterative project-based learning when students can improve their project/code/results after each round. This way, they can learn from other students and their mistakes and see the tangible results of their improvement. Also, games could allow teams to work together to achieve a common goal - cooperating instead of competing - as this may lead to more outstanding learning outcomes.
+
+#videogames #education #gamedesign #edgames #seriousgames  #esport
+
