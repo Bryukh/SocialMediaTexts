@@ -1,0 +1,11 @@
+# The Camouflage of Cards: My Thoughts on Voice of Cards as a Game Developer
+
+I tried Voice of Cards: The Beasts of Burden this weekend, a turn-based RPG with a card-based battle system. Initially, I assumed it was purely a card game because of how cards are integrated everywhere. I didn't know it was part of a series—I hadn't even realized there was one.
+
+As for the game itself, it's decent. If you're into narrative-driven experiences, you might really enjoy it. It felt too slow and easy for me, almost like an interactive novel. The art, though? Absolutely stunning—beyond praise, really. But after playing for a few hours, I couldn't shake the feeling that it's just a classic JRPG underneath all the cards. Yep, the cards feel more like a disguise.
+
+Strip the cards away, and the gameplay remains familiar, akin to what you'd find in the Final Fantasy series—right down to the battles and world exploration. So, why include cards at all? In actual deck-building games like Slay the Spire, the card mechanics—drawing, discarding, shuffling—are integral. They add strategic depth and randomization, influencing decisions like how thick your deck should be. But in Voice of Cards, this card layer quickly starts to feel redundant, more of a drag on the game's pace than an enhancement. If it's purely for aesthetics, that's fine. Another theory is that some initial mechanics were cut during development, leaving only the remnants of a grander idea.
+
+But what if this is just my professional bias as a gamer and game developer? Maybe I'm overanalyzing the "artificial" use of cards, while most players don't notice or mind. I get that this could be an attempt to market a JRPG to a different audience without competing with the hundreds of other titles out there. But that strategy can backfire. On Steam, ratings often hinge on meeting player expectations, not just game quality. If I buy what I think is a deck-building game but get a traditional JRPG instead, there's a good chance I'll leave a negative review simply because "I expected something different."
+
+What are your thoughts on using mechanics as "cosmetic" game features? I can understand blending mechanics or adding mini-games, but this feels like pure "mechanic cosmetics." It reminds me of the edufication of games to make education games (a topic I've written about before)
