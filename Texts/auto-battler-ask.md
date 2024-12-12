@@ -1,0 +1,3 @@
+I’ve played a lot of auto-battlers, especially data-driven ones like Auto Chess, but few manage to keep me hooked for long. One exception is Backpack Battle—an auto-battler with mechanics inspired by Backpack Hero. What I love most is the async PvP mode, which gives me all the time I need to strategize and perfect my loadout.
+
+Any other auto-battlers out there with similar features that you'd recommend?
